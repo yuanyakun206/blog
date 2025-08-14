@@ -14,8 +14,8 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://yuanyakun206.github.io/blog/
-root: /blog/
+url: https://blog-6ac.pages.dev/
+root: /
 permalink: :title/ # edit for Theme.shoka
 permalink_defaults:
 
