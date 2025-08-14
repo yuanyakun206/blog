@@ -29,6 +29,6 @@
     "hexo-symbols-count-time": "^0.7.1",
     "hexo-util": "^2.4.0",
     "nunjucks": "^3.2.4",
-    "pangu": "^4.0.7"
+    "pangu": "^7.2.0"
   }
 }
