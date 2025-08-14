@@ -3,7 +3,7 @@ title: axios常用方法
 date: 2025-08-13 15:55:47
 tags: axios
 categories:
-- [前端基础知识,网络,axios]
+- [前端基础知识,网络]
 ---
 在 Axios 中，get 和 post 方法的参数略有不同 。以下是它们的详细参数说明：
 

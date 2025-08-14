@@ -55,7 +55,9 @@ default_category: uncategorized
 category_map: # edit for Theme.shoka
   前端基础知识: front-end
   网络: net
-  axios-1: axios
+  JavaScript: java-script
+  reduce: reduce
+  axios: axios
   git: git
   git基础: git-basic
   React: react
