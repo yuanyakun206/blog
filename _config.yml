@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: subtitle
-description: 描述123
-keywords: 关键词1,关键词2 # edit for Theme.shoka
-author: John Doe
+title: 欢迎🌸
+subtitle: 祝你天天开心！
+description: 一个前端开发者的个人博客
+keywords: 前端,打工人 # edit for Theme.shoka
+author: 坤
 language: zh-CN # 这里只可以选 zh-CN、zh-HK、zh-TW、ja、en 这几个格式
 timezone: 'Asia/Shanghai'
 
@@ -52,12 +52,9 @@ prismjs:
 # Category & Tag
 default_category: uncategorized
 category_map: # edit for Theme.shoka
-  计算机科学: computer-science
-  Java: java
-  二进制杂谈: note
-  零基础学Java语言-浙江大学-翁恺: course-1
-  Theme Shoka Documentation: theme-shoka-doc
+  前端: front-end
 tag_map:
+  axios: axios
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date

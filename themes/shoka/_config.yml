@@ -1,5 +1,5 @@
 # Alternate site name
-alternate: Yume Shoka
+alternate: 坤的小屋
 
 open_graph:
   #twitter_id:
@@ -155,8 +155,6 @@ reward:
   account:
     wechatpay: /wechatpay.png
     alipay: /alipay.png
-    paypal: /paypal.png
-
 # TagCloud settings for tags page.
 tagcloud:
   # All values below are same as default, change them by yourself.
