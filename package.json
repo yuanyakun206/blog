@@ -16,7 +16,7 @@
     "hexo": "^5.0.0",
     "hexo-algoliasearch": "^0.4.2",
     "hexo-autoprefixer": "^2.0.0",
-    "hexo-deployer-git": "^2.1.0",
+    "hexo-deployer-git": "^4.0.0",
     "hexo-feed": "^1.0.2",
     "hexo-fs": "^5.0.0",
     "hexo-generator-category": "^1.0.0",
