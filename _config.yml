@@ -53,6 +53,8 @@ prismjs:
 default_category: uncategorized
 category_map: # edit for Theme.shoka
   前端: front-end
+  git: git
+  React: React
 tag_map:
   axios: axios
 
