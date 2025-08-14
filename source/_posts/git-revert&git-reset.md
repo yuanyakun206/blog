@@ -1,9 +1,10 @@
 ---
 layout: git
-title: revert
+title: git-revert&git-reset
 date: 2025-08-14 14:15:03
 tags: git
-category: git
+categories:
+- [git,git基础]
 ---
 `git revert` 和 `git reset` 是 Git 中用于撤销更改的两个命令，但它们的实现方式和应用场景有显著区别。以下是两者的核心差异：
 
