@@ -1,7 +1,7 @@
 ---
 title: reduce函数
 date: 2025-08-14 15:16:39
-tags:
+tags: javascript
 categories:
 - [前端基础知识,JavaScript]
 ---
