@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "bluebird": "^3.7.2",
-    "hexo": "^5.0.0",
+    "hexo": "^7.3.0",
     "hexo-algoliasearch": "^0.4.2",
     "hexo-autoprefixer": "^2.0.0",
     "hexo-deployer-git": "^2.1.0",
